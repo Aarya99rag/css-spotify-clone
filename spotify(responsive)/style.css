@@ -278,7 +278,7 @@ a{
 
 .progress-bar{
     width: 50%;
-    appearance: none;    /* note in down */
+    appearance: none;    
     background-color: transparent;
     cursor: pointer;
 }
